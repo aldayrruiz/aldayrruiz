@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - I started as a full stack developer creating and contributing on applications such as [BLUE Drivers](https://play.google.com/store/apps/details?id=eu.bluece.drivers) and [Food&Move](https://play.google.com/store/apps/details?id=eu.bluece.foodandmove).
 - I’m currently working as Cybersecurity Intern on INCIBE CERT.
-- I'm currently learning and practicing pentesting on Hack The Box and other platforms. I upload in my Github for machines that are retired.
+- I'm currently learning and practicing pentesting on Hack The Box and other platforms. I upload retired machines of HTB on my Github.
 - How to reach me: aldayr.dev@gmail.com
 
 
