@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: aldayrruiz@proton.me
+- 📫 How to reach me: 
 - ⚡ Fun fact: ...
 -->
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - I started as a full stack developer creating and contributing on applications such as [BLUE Drivers](https://play.google.com/store/apps/details?id=eu.bluece.drivers) and [Food&Move](https://play.google.com/store/apps/details?id=eu.bluece.foodandmove).
 - I’m currently working as Cybersecurity Intern on INCIBE CERT.
 - I'm currently learning and practicing pentesting on Hack The Box and other platforms. I upload retired machines of HTB on my [website](https://aldayrruiz.github.io).
-- How to reach me: aldayr.dev@gmail.com
+- How to reach me: [aldayrruiz@proton.me](mailto:aldayrruiz@proton.me)
 
 
 ## 🌐 Socials:
